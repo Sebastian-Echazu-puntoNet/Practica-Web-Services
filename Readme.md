@@ -1,5 +1,3 @@
-## Practica WEB Services 
-
 # Practica de Web Services con .NET y C#
 
 Ejemplos resueltos de como utilizar Web Services en .Net .
