@@ -20,7 +20,7 @@ Ejemplos resueltos de como utilizar Web Services en .Net .
 
 ---
 
-**Resuelva**
+## Resuelva
 1. Codifique el siguiente formulario en una página aspx: 
 
    ![form](form.png)
